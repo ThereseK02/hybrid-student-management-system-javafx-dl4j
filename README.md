@@ -25,7 +25,7 @@ The application supports student record management while demonstrating how machi
 - View student records
 - Remove students
 - GPA management
-- Course management
+- Student data handling
 
 ## JavaFX Desktop Interface
 - Sidebar navigation dashboard
@@ -162,6 +162,7 @@ The application:
 
 # Future Improvements
 
+- Add full course management interface
 - Database integration
 - Role-based authentication
 - Enhanced analytics dashboards
