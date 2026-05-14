@@ -171,7 +171,33 @@ The application:
 - REST API integration
 
 ---
+# Key Contributions
 
+- Designed and developed a JavaFX-based desktop student management application
+- Integrated DeepLearning4J (DL4J) for educational analytics experimentation
+- Implemented student dataset loading and neural network training workflows
+- Developed modular object-oriented system architecture using Java and Maven
+- Created interactive GUI panels for student management and analytics processing
+- Applied machine learning fundamentals to student performance classification
+- Structured the project for professional GitHub portfolio presentation
+
+---
+
+# Final Conclusion
+
+This project demonstrates the integration of software engineering principles, JavaFX desktop development, educational analytics, and foundational deep learning workflows within a single academic application.
+
+The system highlights how machine learning concepts can be incorporated into educational management platforms while maintaining clean object-oriented architecture and modern desktop interface design.
+
+The project also strengthened practical experience in:
+- Java application development
+- Maven project management
+- JavaFX GUI engineering
+- DL4J integration
+- Git and GitHub workflows
+- technical documentation and software presentation
+
+---
 # Author
 
 Therese Kabayanja
