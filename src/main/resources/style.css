@@ -1,0 +1,33 @@
+
+/*
+* CSS
+*/
+.root {
+    -fx-background-color: #D1FFD1; /* Keeping the light green main bg */
+}
+
+/* Updated Sidebar to Light Blue */
+.sidebar {
+    -fx-background-color: #ADD8E6; /* Light Blue */
+    -fx-padding: 20;
+    -fx-spacing: 15;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #2c3e50;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold; /* Making buttons BOLD */
+    -fx-alignment: CENTER_LEFT;
+}
+
+.button:hover {
+    -fx-background-color: #87CEEB; /* Slightly darker sky blue on hover */
+    -fx-cursor: hand;
+}
+
+.dashboard-title {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-fill: #2c3e50;
+}
