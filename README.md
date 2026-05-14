@@ -74,6 +74,12 @@ The application supports student record management while demonstrating how machi
 
 ---
 
+## Add Student Success Confirmation
+
+![Add Student Successfully](screenshots/add_student_successfully_screen.png)
+
+---
+
 ## View Students
 
 ![View Students](screenshots/view_students_screen.png)
